@@ -29,3 +29,4 @@ steps:
     orchestratorConnection: 'Uipath_Testing'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Test'
+    entryPoints: ""
